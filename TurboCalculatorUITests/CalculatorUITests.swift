@@ -79,12 +79,4 @@ class CalculatorUITests: XCTestCase {
         let resultButton = app.buttons["ResultButton"]
         XCTAssertEqual(resultButton.staticTexts.element.label, "1.45")
     }
-
-//    func testPercentage() {
-//        app.buttons["7"].tap()
-//        app.buttons["%"].tap()
-//        app.buttons["="].tap()
-//        let resultButton = app.buttons["ResultButton"]
-//        XCTAssertEqual(resultButton.staticTexts.element.label, "0.07")
-//    }
 }
