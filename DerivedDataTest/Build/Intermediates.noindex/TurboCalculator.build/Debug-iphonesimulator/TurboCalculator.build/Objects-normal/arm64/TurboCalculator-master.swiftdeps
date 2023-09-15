@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "c66c06c493109e46cc2968d4c1dc1e8793438ea60d1bf6e18343919f7252bfa0"
+build_start_time: [1694775810, 631507000]
+build_end_time: [1694775814, 184179000]
+inputs:
+  "/Users/kirill/Desktop/15/Calculator-Swift/TurboCalculator/AppDelegate.swift": [1694157533, 349736571]
+  "/Users/kirill/Desktop/15/Calculator-Swift/TurboCalculator/SceneDelegate.swift": [1694157533, 352072001]
+  "/Users/kirill/Desktop/15/Calculator-Swift/TurboCalculator/ViewController.swift": [1694157533, 352465987]

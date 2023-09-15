@@ -1,0 +1,70 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "7c95624c7a0cedcdb22c97dd74f5259f8f6df62f540ed68e19c65130933a1fdc"
+    },
+    {
+      "guid" : "7c95624c7a0cedcdb22c97dd74f5259f15561ea2902cb3a69bf705c0ba121a21"
+    }
+  ],
+  "containerPath" : "/Users/kirill/Desktop/15/Calculator-Swift/TurboCalculator.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/kirill/Desktop/15/Calculator-Swift/DerivedDataTest/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/kirill/Desktop/15/Calculator-Swift/DerivedDataTest/Build/Products",
+      "derivedDataPath" : "/Users/kirill/Desktop/15/Calculator-Swift/DerivedDataTest",
+      "indexDataStoreFolderPath" : "/Users/kirill/Desktop/15/Calculator-Swift/DerivedDataTest/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/kirill/Desktop/15/Calculator-Swift/DerivedDataTest/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/kirill/Desktop/15/Calculator-Swift/DerivedDataTest/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,6",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,6",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "E897A405-93E8-468C-AE62-9C426BDF8257",
+          "TARGET_DEVICE_MODEL" : "iPhone14,6",
+          "TARGET_DEVICE_OS_VERSION" : "16.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "test",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

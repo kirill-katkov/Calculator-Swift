@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "2bb1fe9a83d8055dcdc269f25a21eb23ec7c66bb7b1e1122ef9661aa63fd72ee"
+build_start_time: [1694775812, 938404000]
+build_end_time: [1694775817, 185376000]
+inputs:
+  "/Users/kirill/Desktop/15/Calculator-Swift/TurboCalculatorUITests/Allure.swift": [1694775486, 477479716]
+  "/Users/kirill/Desktop/15/Calculator-Swift/TurboCalculatorUITests/CalculatorUITests.swift": [1694775362, 97430214]
+  "/Users/kirill/Desktop/15/Calculator-Swift/TurboCalculatorUITests/TurboCalculatorUITests.swift": [1694157570, 140999794]
+  "/Users/kirill/Desktop/15/Calculator-Swift/TurboCalculatorUITests/TurboCalculatorUITestsLaunchTests.swift": [1694775362, 97562793]

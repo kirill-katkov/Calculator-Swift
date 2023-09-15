@@ -13,6 +13,7 @@
 		0501C70B293B61C90073A10F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0501C709293B61C90073A10F /* Main.storyboard */; };
 		0501C70D293B61CB0073A10F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0501C70C293B61CB0073A10F /* Assets.xcassets */; };
 		0501C710293B61CB0073A10F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0501C70E293B61CB0073A10F /* LaunchScreen.storyboard */; };
+		ED020D782AB4702C0048B9FE /* Allure.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED020D772AB4702C0048B9FE /* Allure.swift */; };
 		ED2DB6942AAB19B9009282E4 /* TurboCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2DB6932AAB19B9009282E4 /* TurboCalculatorUITests.swift */; };
 		ED2DB6962AAB19B9009282E4 /* TurboCalculatorUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2DB6952AAB19B9009282E4 /* TurboCalculatorUITestsLaunchTests.swift */; };
 		ED2DB69D2AAB19CC009282E4 /* CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED2DB69C2AAB19CC009282E4 /* CalculatorUITests.swift */; };
@@ -37,6 +38,7 @@
 		0501C70C293B61CB0073A10F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0501C70F293B61CB0073A10F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0501C711293B61CB0073A10F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED020D772AB4702C0048B9FE /* Allure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Allure.swift; sourceTree = "<group>"; };
 		ED2DB6912AAB19B9009282E4 /* TurboCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TurboCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED2DB6932AAB19B9009282E4 /* TurboCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TurboCalculatorUITests.swift; sourceTree = "<group>"; };
 		ED2DB6952AAB19B9009282E4 /* TurboCalculatorUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TurboCalculatorUITestsLaunchTests.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				ED2DB6932AAB19B9009282E4 /* TurboCalculatorUITests.swift */,
 				ED2DB6952AAB19B9009282E4 /* TurboCalculatorUITestsLaunchTests.swift */,
 				ED2DB69C2AAB19CC009282E4 /* CalculatorUITests.swift */,
+				ED020D772AB4702C0048B9FE /* Allure.swift */,
 			);
 			path = TurboCalculatorUITests;
 			sourceTree = "<group>";
@@ -214,6 +217,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED020D782AB4702C0048B9FE /* Allure.swift in Sources */,
 				ED2DB6942AAB19B9009282E4 /* TurboCalculatorUITests.swift in Sources */,
 				ED2DB69D2AAB19CC009282E4 /* CalculatorUITests.swift in Sources */,
 				ED2DB6962AAB19B9009282E4 /* TurboCalculatorUITestsLaunchTests.swift in Sources */,

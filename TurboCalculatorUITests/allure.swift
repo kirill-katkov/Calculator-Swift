@@ -1,5 +1,5 @@
 //
-//  allure.swift
+//  Allure.swift
 //  TurboCalculatorUITests
 //
 //  Created by kirill on 15.09.2023.
